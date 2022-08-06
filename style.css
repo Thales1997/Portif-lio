@@ -1,0 +1,14 @@
+#projeto{
+    list-style-type: none;
+    border-left: 20px solid rgb(31, 111, 231);
+    border-right: 20px solid rgb(31, 111, 231);
+    padding: 20px 35px;
+    background-color: rgb(67, 67, 77);
+}
+.links{ 
+    color: black;
+}
+
+a:link { 
+    text-decoration: none;
+}
